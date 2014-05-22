@@ -1,0 +1,640 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"angu",
+				"angular	AngularJS"
+			],
+			[
+				"console",
+				"console.	console.time(name)"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"aweos",
+				"awesomeness"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"fla",
+				"flag"
+			],
+			[
+				"mnu",
+				"mnuHeight"
+			],
+			[
+				"loc",
+				"location	\\$location"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"perfs",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"prefs",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"css",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"tid",
+				"Tidy CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"cake",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"view",
+				"View: Toggle Status Bar"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Emmet: Remove Tag"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"the",
+				"Themr: Previous theme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"coffe",
+				"Coffee: Toggle Watch Mode"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"json2xml: json to xml"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 375.0,
+		"history":
+		[
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Git/nancyscript/modules.csx",
+		"/D/Git/nancyscript/start.csx",
+		"/D/Git/nancyscript/Views/index.html",
+		"/D/Git/nancyscript/static/app/app.js",
+		"/D/Git/nancyscript/packages.config",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Git/csscripttest/server.csx",
+		"/D/Git/csscripttest/test1.csx",
+		"/D/Git/NodaLab7/.jshintrc",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/Theme - DefaultPlus/DefaultPlus.sublime-theme",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/Theme - DefaultPlus/Widgets.stTheme",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/Theme - DefaultPlus/Widget.sublime-settings",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/User/sublime_tfs.sublime-settings",
+		"/D/Git/NodaLab7/package.json",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/asjoberg/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/D/Git/NodaLab7/app.js",
+		"/D/script/webapp1/app/views/partials/main.html",
+		"/D/script/webapp1/app/styles/bootstrap.css",
+		"/D/script/webapp1/app/views/index.html",
+		"/D/script/webapp1/app/scripts/app.js",
+		"/D/script/webapp1/app/scripts/controllers/main.js",
+		"/D/script/webapp1/lib/routes.js",
+		"/c/users/asjoberg/appdata/local/temp/api.js",
+		"/D/script/webapp1/lib/controllers/api.coffee",
+		"/D/script/webapp1/app/index.html",
+		"/D/script/webapp1/lib/controllers/api.js",
+		"/D/script/webapp1/dist/lib/controllers/api.js",
+		"/D/script/webapp1/app/bower_components/angular/angular.js",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-node-inspector/node_modules/node-inspector/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-node-inspector/node_modules/node-inspector/.jshintignore",
+		"/D/script/webapp1/node_modules/grunt-google-cdn/node_modules/bower/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-watch/node_modules/gaze/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-uglify/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-htmlmin/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-cssmin/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-connect/node_modules/open/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-connect/node_modules/open/.jshintignore",
+		"/D/script/webapp1/node_modules/grunt/node_modules/getobject/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt/node_modules/findup-sync/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt/node_modules/exit/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-newer/test/.jshintrc",
+		"/D/script/webapp1/test/client/.jshintrc",
+		"/D/script/webapp1/node_modules/open/.jshintrc",
+		"/D/script/webapp1/node_modules/open/.jshintignore",
+		"/D/script/webapp1/node_modules/grunt-rev/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-open/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-newer/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-express-server/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-env/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-watch/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-uglify/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-jshint/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-jshint/.jshintignore",
+		"/D/script/webapp1/node_modules/grunt-contrib-htmlmin/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-cssmin/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-copy/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-concat/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-coffee/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-clean/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-bower-install/.jshintrc",
+		"/D/script/webapp1/test/.jshintrc",
+		"/D/script/webapp1/lib/.jshintrc",
+		"/D/script/webapp1/.jshintrc",
+		"/D/script/webapp1/node_modules/karma/node_modules/log4js/.jshintrc",
+		"/D/script/webapp1/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/.jshintrc",
+		"/D/script/webapp1/node_modules/load-grunt-tasks/node_modules/findup-sync/.jshintrc",
+		"/D/script/webapp1/node_modules/load-grunt-tasks/node_modules/globule/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-google-cdn/node_modules/bower/node_modules/promptly/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-ngmin/node_modules/ngmin/node_modules/escodegen/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-node-inspector/node_modules/node-inspector/node_modules/strong-data-uri/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-google-cdn/node_modules/bower/test/assets/package-repo/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-karma/node_modules/optimist/test/_.js",
+		"/D/script/webapp1/node_modules/karma/node_modules/optimist/test/_.js",
+		"/D/script/webapp1/node_modules/grunt-google-cdn/node_modules/bower/test/assets/package-ignorables/config/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-ngmin/node_modules/ngmin/node_modules/escodegen/node_modules/estraverse/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-clean/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-compress/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-cssmin/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-uglify/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-watch/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-hashify/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-snocketsify/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/test/_.js",
+		"/D/script/webapp1/node_modules/grunt-node-inspector/node_modules/node-inspector/node_modules/yargs/test/_.js",
+		"/D/script/webapp1/node_modules/karma/node_modules/http-proxy/node_modules/optimist/test/_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/mout/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-node-inspector/node_modules/node-inspector/node_modules/express/node_modules/connect/node_modules/multiparty/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt/node_modules/exit/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt/node_modules/findup-sync/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt/node_modules/getobject/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-cssmin/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-jade/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-uglify/node_modules/grunt-lib-contrib/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-watch/node_modules/gaze/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/function/makeIterator_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/src/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/src/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-google-cdn/node_modules/bower/node_modules/rc/node_modules/optimist/test/_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/through2/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/download/node_modules/through2/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/through2/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-nodemon/node_modules/nodemon/tmp/express-boilerplate/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/mout/src/function/makeIterator_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/tough-cookie/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/tough-cookie/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/tough-cookie/.jshintrc",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/mout/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/mout/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/function/makeIterator_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/src/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/src/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/function/makeIterator_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/src/collection/make_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/mout/src/date/i18n_.js",
+		"/D/script/webapp1/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/mout/function/makeIterator_.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"D:\\script\\webapp1\\app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"tab_",
+			"tab_he",
+			"kolla",
+			"generating",
+			"aa",
+			");\n",
+			" concurrent.server",
+			"process.env.PORT",
+			"Express server listening on",
+			"serve",
+			"livereload",
+			"name",
+			".text",
+			">\n",
+			"NavbarCtrl",
+			"awesomeThings",
+			"MainCtrl",
+			"newer",
+			"watch",
+			"yeoman.dist",
+			"watch",
+			"yeoman.dist",
+			"\"",
+			"  \"$",
+			"\"\n",
+			"\"",
+			"font-size",
+			"0px",
+			"h1",
+			"page-heading",
+			":0px",
+			"0px",
+			"	-",
+			"\n    ",
+			"div",
+			"class",
+			"fileHandler",
+			"div",
+			"span",
+			"ctrl+shift+r",
+			"()",
+			"modell",
+			"caret_extra_top",
+			"hoverVisibility",
+			"helpers",
+			"scope",
+			"sogeti",
+			"App",
+			"sven",
+			"scope",
+			"model",
+			"Level",
+			"model",
+			"\n        ",
+			"model",
+			"Level",
+			"function",
+			"editing",
+			"]);"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sven"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 205.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "democon.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"node_modules\\grunt-contrib-htmlmin\\tasks\\htmlmin.js"
+			],
+			[
+				"404",
+				"app\\404.html"
+			],
+			[
+				"menu",
+				"js\\app\\menuCtrl.coffee"
+			],
+			[
+				"app",
+				"js\\app\\app.coffee"
+			],
+			[
+				"",
+				"js\\app\\app.coffee"
+			],
+			[
+				"editm",
+				"css\\editmode.css"
+			],
+			[
+				"menuct",
+				"Static\\js\\app\\menuCtrl.js"
+			],
+			[
+				".cs",
+				"Sogeti2014.csproj"
+			],
+			[
+				"js",
+				"bin\\Newtonsoft.Json.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
