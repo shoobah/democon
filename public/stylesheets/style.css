@@ -5,6 +5,7 @@ body{line-height: 24px; font-size: 16px;}
 	font-family:'sansationregular'; font-size: 1em;}
 #dmcn_cnsl input[type=text] {font-family: 'sansationregular'; width: 100%;
  border:0; background-color: silver; font-size: 1em;}
+#dmcn_cnsl input:focus {outline: 0;}
 #dmcn_cnsl .history{position:relative; height: 200px;}
 #dmcn_cnsl .history div{position: absolute; bottom: 0; width: 100%;}
 
