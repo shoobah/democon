@@ -1,13 +1,13 @@
 *{margin:0;padding:0;}
 body{line-height: 24px; font-size: 16px;}
 
-#dmcn_cnsl {background-color:silver; padding:0 6px 0 6px; 
+#dc {background-color:silver; padding:0 6px 0 6px; 
 	font-family:'sansationregular'; font-size: 1em;}
-#dmcn_cnsl input[type=text] {font-family: 'sansationregular'; width: 100%;
+#dc input[type=text] {font-family: 'sansationregular'; width: 100%;
  border:0; background-color: silver; font-size: 1em;}
-#dmcn_cnsl input:focus {outline: 0;}
-#dmcn_cnsl .history{position:relative; height: 200px;}
-#dmcn_cnsl .history div{position: absolute; bottom: 0; width: 100%;}
+#dc input:focus {outline: 0;}
+#dc .history{position:relative; height: 200px;}
+#dc .history div{position: absolute; bottom: 0; width: 100%;}
 
 @font-face {
     font-family: 'sansationregular';
